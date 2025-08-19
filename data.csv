@@ -1,0 +1,11 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate
+101,Amit,Laptop,Electronics,1,60000,2025-01-01
+102,Sneha,Mobile,Electronics,2,15000,2025-01-16
+103,Raj,Tablet,Electronics,1,20000,2025-01-31
+104,Pooja,Headphones,Accessories,3,2000,2025-02-15
+105,Vikas,Laptop,Electronics,1,58000,2025-03-02
+106,Neha,Mobile,Electronics,1,16000,2025-03-17
+107,Arjun,Charger,Accessories,4,500,2025-04-01
+108,Meera,Laptop,Electronics,2,61000,2025-04-16
+109,Ravi,Tablet,Electronics,1,21000,2025-05-01
+110,Kiran,Mobile,Electronics,2,15500,2025-05-16
